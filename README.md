@@ -1,4 +1,4 @@
-# MusicStation
+# Music Station
 
 Final project for ECE 4305 (Advanced Verilog Design) course at Cal Poly Pomona
 
